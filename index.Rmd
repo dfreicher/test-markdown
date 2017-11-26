@@ -1,5 +1,5 @@
 ---
-title: "test"
+title: "Dominik Freicher"
 author: "Dominik"
 date: "26 November 2017"
 output: html_document
