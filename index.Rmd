@@ -42,7 +42,7 @@ read_chunk('script.R')
 ```
 
 ## Map
-## ```{r map}
-## ```
-## ```
+ ```{r map}
+ ```
+ ```
 
