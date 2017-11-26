@@ -10,4 +10,4 @@ plot(x,y)
 ## @knitr map
 
 library(ggmap)
-qmap('Liverpool')
+qmap('Katowice')
